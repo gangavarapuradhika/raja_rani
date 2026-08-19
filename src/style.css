@@ -1,0 +1,11 @@
+body {
+  background-color: purple;
+}
+.game-container {
+  margin-top: 20px;
+}
+.card-image {
+  max-width: 150px;
+  max-height: 200px;
+  margin-top: 20px;
+}
