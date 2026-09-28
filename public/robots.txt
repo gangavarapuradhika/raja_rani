@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 sitemap:
-https://YOUR-DOMAIN.com/sitemmap.xml
+https://raja-rani-eta.vercel.app//sitemmap.xm
